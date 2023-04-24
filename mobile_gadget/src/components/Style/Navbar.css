@@ -6,5 +6,8 @@
 }
 .nav-list a{
     text-decoration: none;
-    
+}
+.nav-list a:hover{
+    color: black;
+
 }
