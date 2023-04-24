@@ -4,7 +4,8 @@
     list-style: none;
     font-size: 1.4rem;
 }
-.nav-list a{
+
+.nav-list a {
     text-decoration: none;
-    
+    color: #453280;
 }
