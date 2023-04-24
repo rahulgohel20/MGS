@@ -2,10 +2,10 @@
     display: flex;
     gap: 5rem;
     list-style: none;
-    font-size: 5rem;
+    font-size: 1.4rem;
 }
 
 .nav-list a {
     text-decoration: none;
-    
+
 }
