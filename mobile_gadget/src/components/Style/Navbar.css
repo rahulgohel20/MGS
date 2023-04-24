@@ -4,10 +4,8 @@
     list-style: none;
     font-size: 1.4rem;
 }
-.nav-list a{
-    text-decoration: none;
-}
-.nav-list a:hover{
-    color: black;
 
+.nav-list a {
+    text-decoration: none;
+    
 }
